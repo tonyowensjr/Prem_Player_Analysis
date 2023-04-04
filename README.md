@@ -1,2 +1,2 @@
 # Prem_Player_Analysis
-Analysis of the best and worst finishing Premier League Players used to create the images on my tweet @TonyOwensjr5
+Analysis of the best and worst finishing Premier League Players. This code was used to generate the graphics on my tweet on April 3rd @TonyOwensjr5
